@@ -41,7 +41,7 @@ This is **Task 1** of my Data Science internship at **Prodigy InfoTech** - a Glo
 
 ### Prerequisites
 - Power BI Desktop (Latest Version)
-- Python 3.8+ (for data processing scripts)
+- Power BI Desktop (for data processing scripts)
 - World Bank API access (free)
 
 ### Quick Start
