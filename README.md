@@ -1,7 +1,7 @@
 # Global-population-dashboard
 #  Global Population Intelligence Dashboard
 
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]([(https://app.powerbi.com/links/gdsLDmuzxE?ctid=3110c454-6298-4bf6-a99e-5ffc74253e80&pbi_source=linkShare)/)
 [![DAX](https://img.shields.io/badge/DAX-FF6B6B?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/dax/)
 [![World Bank Data](https://img.shields.io/badge/Data-World_Bank-007DBC?style=for-the-badge&logo=worldbank&logoColor=white)](https://data.worldbank.org/)
 
