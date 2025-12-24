@@ -47,4 +47,4 @@ This is **Task 1** of my Data Science internship at **Prodigy InfoTech** - a Glo
 ### Quick Start
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Global-population-dashboard.git
+   git clone https://github.com/patriceir27-ship-it/Global-population-dashboard.git
