@@ -1,13 +1,17 @@
 # Global-population-dashboard
-#  Global Population Intelligence Dashboard
 
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]([(https://app.powerbi.com/links/gdsLDmuzxE?ctid=3110c454-6298-4bf6-a99e-5ffc74253e80&pbi_source=linkShare)/)
+# 🌍 Global Population Intelligence Dashboard - Task 1
+
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/links/gdsLDmuzxE?ctid=3110c454-6298-4bf6-a99e-5ffc74253e80&pbi_source=linkShare)
 [![DAX](https://img.shields.io/badge/DAX-FF6B6B?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/dax/)
-[![World Bank Data](https://img.shields.io/badge/Data-World_Bank-007DBC?style=for-the-badge&logo=worldbank&logoColor=white)](https://data.worldbank.org/)
+[![World Bank Data](https://img.shields.io/badge/Data-World_Bank-007DBC?style=for-the-badge&logo=worldbank&logoColor=white)](https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%201)
+[![Prodigy InfoTech](https://img.shields.io/badge/Internship-Prodigy_InfoTech-8A2BE2?style=for-the-badge&logo=internetarchive&logoColor=white)](https://prodigyinfotech.dev/)
 
-##  Overview
+## Project Overview
 
-An interactive Power BI dashboard analyzing global population trends from 1960 to 2024 using World Bank data. This dashboard provides insights into demographic changes, growth patterns, and regional distributions across 200+ countries.
+This is **Task 1** of my Data Science internship at **Prodigy InfoTech** - a Global Population Intelligence Dashboard analyzing demographic trends from 1960 to 2024 using World Bank data.
+
+**🔗 Live Dashboard:** [Access Interactive Dashboard](https://app.powerbi.com/links/gdsLDmuzxE?ctid=3110c454-6298-4bf6-a99e-5ffc74253e80&pbi_source=linkShare)
 
 ##  Features
 
